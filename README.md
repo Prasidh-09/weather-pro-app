@@ -19,19 +19,9 @@
 
 ## 🖼️ Screenshots
 
-![WeatherApp Screenshot](<img width="743" height="407" alt="image" src="https://github.com/user-attachments/assets/a95ea02b-a2c4-48c1-8985-4851ea38742c" />
-)
+<img width="743" height="407" alt="image" src="https://github.com/user-attachments/assets/a95ea02b-a2c4-48c1-8985-4851ea38742c" />
+
 
 ---
 
-## ⚡ Getting Started
-
-Follow these instructions to get a copy of the project running locally:
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/)  
-- npm (Node Package Manager)
-
----
-
+## 
